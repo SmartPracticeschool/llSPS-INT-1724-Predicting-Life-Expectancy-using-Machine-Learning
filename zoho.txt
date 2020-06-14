@@ -1,0 +1,45 @@
+                                                
+                      PREDICTING AVERAGE LIFE EXPECTANCY
+➤ Project Summary:
+It is a  Machine Learning project which is focused especially  at predicting average
+Life Expectancy rate of various people in various countries taking in account of several features which serve
+as a historical data like Regional variations, Economic Circumstances, Sex
+Differences, Mental Illnesses, Physical Illnesses, Education, Year of their birth and other
+demographic factors.
+This problem statement provides the best way to predict average life expectancy of people living
+in a country when various factors such as year, GDP, education, alcohol intake of people
+in the country, expenditure on healthcare system and some specific disease related
+deaths that happened in the country.
+➤ Project Requirements:
+     ● An appropriate machine learning model.
+        Here multivariate linear regression model is used as it incorporates various
+        features and the predictions are the continuous values.
+     ● Programming language such as python.
+     ● An appropriate computing platform such as IBM cloud.
+     ● Morever      some      important     Libraries   such      as   Pandas,Numpy,SciKit
+        Learn,Seaborn,MatplotLib.
+     ● A tool to generate URL for the model to be accessible globally.
+➤ Functional Requirements:
+     ● At the front-hand, a webpage taking the necessary inputs from the user to
+        implement the designed model.
+     ● At the backhand, the input gets processed and finally gives the desired output,here
+        the average life expectancy.
+➤ Technical/software Requirements:
+ ● Performance of the system may vary for various inputs,since the model is
+    designed based on a typical data set.
+ ● Accuracy of the system is not up to 100% ,but gives a fair output which is reliable.
+ ● It is accessible globally, but however its performance may get affected while
+    handling a myriad of requests concurrently.
+ ● Its simple to access and is manageable.
+
+ 
+ ➤ Project Deliverables:
+    This project delivers the predicted average life expectancy based on the input
+    provided.
+ ➤ Project Team:
+	individual
+ ➤ Project Schedule:
+	30 days
+	
+	
+	
